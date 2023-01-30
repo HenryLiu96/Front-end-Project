@@ -1,0 +1,23 @@
+{
+  "name": "front-end-project",
+  "version": "1.0.0",
+  "description": "Author: Hongru Liu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryLiu96/Front-end-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenryLiu96/Front-end-Project/issues"
+  },
+  "homepage": "https://github.com/HenryLiu96/Front-end-Project#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
